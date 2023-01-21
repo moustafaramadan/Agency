@@ -4,7 +4,9 @@
     font-family: 'Cairo', sans-serif;
 
 }
-
+#nav{
+    background-color:#4FA491;
+}
 .fixed-top {
     position: fixed;
     top: 0;
@@ -420,6 +422,7 @@ footer .copyrights h6 {
 }
 
 @media (max-width:992px) {
+
     section.ser .card {
         padding: 40px 15px;
         height: 427px;
